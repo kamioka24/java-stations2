@@ -2,8 +2,11 @@
 
 問題に取り組むために事前に以下のインストールを完了してください。
 
-- Git
-- Visual Studio Code
+1. Git
+2. Node.js（v18以降を推奨します。）
+3. Yarn (v1)
+4. Visual Studio Code
+5. Railway VSCode 拡張機能
 
 上記のインストールなど、Railway 全体に関することは [Railway 準備編](https://www.notion.so/techbowl/Railway-ceba695d5014460e9733c2a46318cdec) をご確認いただき、挑戦の準備をしましょう。
 
