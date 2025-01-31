@@ -8,7 +8,7 @@
 4. Visual Studio Code
 5. Railway VSCode 拡張機能
 
-上記のインストールなど、Railway 全体に関することは [Railway 準備編](https://www.notion.so/techbowl/Railway-ceba695d5014460e9733c2a46318cdec) をご確認いただき、挑戦の準備をしましょう。
+上記のインストールなど、Railway 全体に関することは [Railway 準備編](https://www.notion.so/techbowl/Railway-ceba695d5014460e9733c2a46318cdec) をご確認いただき、挑戦の準備をしましょう。※ GitHub Codespaces についての資料はスキップしてください。
 
 # 2. Java Railway を始めるための準備
 
